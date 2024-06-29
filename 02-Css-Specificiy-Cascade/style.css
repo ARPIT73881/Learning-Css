@@ -1,0 +1,37 @@
+li#html.html {
+  background-color: gold;
+}
+
+#html.html {
+  background-color: sienna;
+}
+
+.html {
+  background-color: cadetblue;
+}
+
+#html#html#html {
+  background-color: black;
+  color: white;
+}
+
+#html {
+  background-color: chartreuse;
+  color: red;
+}
+
+li {
+  color: brown;
+  background-color: darkgoldenrod;
+}
+li {
+  color: blue;
+  background-color: aquamarine;
+}
+li {
+  color: deeppink;
+}
+
+.html {
+  background-color: gray;
+}
