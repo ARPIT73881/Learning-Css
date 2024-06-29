@@ -1,0 +1,55 @@
+/* Element selector */
+li {
+  /* color: rgb(255, 0, 0); */
+  font-weight: 700;
+  font-size: 32px;
+}
+
+/* Id selector */
+/* #html,
+#css,
+#javascript,
+#react,
+#tailwind {
+  font-size: 32px;
+} */
+
+/* class selector */
+.html {
+  color: #e34d25;
+}
+.css {
+  color: #264de4;
+}
+.javascript {
+  color: #f7e01d;
+}
+.react {
+  color: #087fa4;
+}
+.tailwind {
+  color: #38bdf8;
+}
+
+/* attribute selector */
+[class] {
+  background-color: greenyellow;
+}
+
+[arpit] {
+  background-color: cadetblue;
+}
+
+/* Combinator selector */
+ul p {
+  color: darkorchid;
+}
+
+/* pseudo selector */
+h1:hover {
+  color: crimson;
+}
+
+[arpit]:hover {
+  color: floralwhite;
+}
