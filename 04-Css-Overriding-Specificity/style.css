@@ -1,0 +1,26 @@
+li {
+  color: blue !important;
+  background-color: aquamarine;
+}
+
+.html {
+  background-color: cadetblue;
+}
+
+#html {
+  background-color: chartreuse;
+  color: red;
+}
+
+li {
+  color: brown;
+  background-color: darkgoldenrod !important;
+}
+
+li {
+  color: deeppink;
+}
+
+.html {
+  background-color: gray;
+}
