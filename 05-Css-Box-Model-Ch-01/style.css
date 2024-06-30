@@ -1,0 +1,28 @@
+.parent {
+  /* width: 800px; */
+  background-color: bisque;
+  height: 400px;
+}
+
+.one {
+  background-color: aquamarine;
+  /* max-width: 500px; */
+  /* height: 150px; */
+  /* min-height: 150px; */
+  max-width: 50%;
+  /* word-break: break-all; */
+}
+
+.one-child {
+  width: 50%;
+}
+
+.two {
+  background-color: blueviolet;
+}
+
+.three {
+  background-color: brown;
+  /* padding: 5%; */
+  padding: 10px;
+}
