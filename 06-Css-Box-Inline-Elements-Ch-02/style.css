@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+}
+
+/* .html {
+  display: block;
+  background-color: cadetblue;
+  width: 60px;
+  height: 40px;
+  border: 12px solid pink;
+  padding: 25px;
+  margin: 20px;
+} */
+
+.html {
+  display: inline-block;
+  background-color: cadetblue;
+  width: 60px;
+  height: 40px;
+  border: 12px solid pink;
+  padding: 25px;
+  margin: 20px;
+}
+
+img {
+  width: 250px;
+  height: 350px;
+  /* background-color: darkgreen; */
+  padding: 25px;
+  border: 20px solid deeppink;
+  margin: 20px;
+}
+
+.okay {
+  display: inline-block;
+  /* display: none; */
+  background-color: coral;
+}
+
+iframe {
+  width: 480px;
+  height: 360px;
+  margin: 25px;
+}
+
+video {
+  width: 480px;
+  height: 360px;
+  margin: 20px;
+}
