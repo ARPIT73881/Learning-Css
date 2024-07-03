@@ -1,0 +1,87 @@
+body {
+  font-family: sans-serif;
+}
+
+.box {
+  text-align: center;
+  /* line-height: 1; */
+  color: white;
+  width: 500px;
+  height: 300px;
+  border: 5px solid red;
+  background-image: url(profile.png);
+  background-size: contain;
+  /* background-repeat: no-repeat; */
+}
+
+.box2 {
+  text-align: center;
+  line-height: 1;
+  color: white;
+  width: 500px;
+  height: 300px;
+  border: 5px solid red;
+  background-image: url(profile.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: burlywood;
+}
+
+.box3 {
+  text-align: center;
+  line-height: 1;
+  color: white;
+  width: 500px;
+  height: 300px;
+  border: 5px solid red;
+  background-image: url(profile.png);
+  background-size: cover;
+  background-position: 5px -80px;
+  /* background-repeat: no-repeat; */
+}
+
+.box4 {
+  text-align: center;
+  line-height: 1;
+  color: white;
+  width: 500px;
+  height: 300px;
+  border: 5px solid red;
+  background-image: url(profile.png);
+  background-size: 25%;
+  /* background-position: 5px -80px; */
+  /* background-repeat: no-repeat; */
+}
+
+.one,
+.two {
+  display: flex;
+  gap: 10%;
+}
+
+.tran {
+  font-size: 40px;
+  width: 50%;
+  background-color: blanchedalmond;
+}
+
+.tran:hover {
+  color: crimson;
+  /* transform: translate(20px , 20px); */
+  cursor: pointer;
+
+  transform: rotate(7deg) scale(1.5);
+  transform-origin: 0 0;
+  transition: 0.25s ease;
+}
+
+h1 {
+  text-align: center;
+}
+h1:hover {
+  cursor: pointer;
+  color: orangered;
+  transform: scale(1.2);
+  transition: 0.3s ease;
+  background-color: aqua;
+}
