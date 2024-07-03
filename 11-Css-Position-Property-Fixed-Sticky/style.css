@@ -1,0 +1,66 @@
+header {
+  background-color: greenyellow;
+  position: sticky;
+  top: 0;
+  /* position: fixed; */
+}
+
+div {
+  /* position: relative; */
+  background-color: chartreuse;
+  /* top: 5px; */
+  /* bottom: 5px; */
+  /* right: 5px; */
+  /* left: 50px; */
+  /* inset: 5px; */
+}
+
+/* main {
+  overflow: scroll;
+} */
+
+ul {
+  position: relative;
+  background-color: brown;
+  margin-top: 50px;
+  /* top: 50px; */
+}
+
+.css-element {
+  background-color: aquamarine;
+  /* position: absolute; */
+  top: 30px;
+  left: 5px;
+  right: 5px;
+  /* inset: 5px; */
+}
+
+.js-element {
+  /* position: fixed; */
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  background-color: darkorange;
+}
+
+.html-element {
+  /* position: sticky; */
+  /* top: 10px; */
+  /* right: 10px; */
+  /* left: 10px; */
+  background-color: darkkhaki;
+}
+
+ol {
+  margin-top: 100px;
+  position: relative;
+  height: 200px;
+  /* overflow-y: scroll; */
+  /* top: 10px; */
+}
+
+.stick-p {
+  background-color: hotpink;
+  position: sticky;
+  top: 50px;
+}
