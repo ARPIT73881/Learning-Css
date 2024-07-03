@@ -1,0 +1,31 @@
+body {
+  /* element will attach to the body */
+  /* i.e. it will attach wherever the position is relative */
+  position: relative;
+}
+
+div {
+  position: relative;
+  background-color: chartreuse;
+  /* top: 5px; */
+  /* bottom: 5px; */
+  /* right: 5px; */
+  left: 50px;
+  /* inset: 5px; */
+}
+
+ul {
+  /* position: relative; */
+  background-color: brown;
+  margin-top: 50px;
+  top: 50px;
+}
+
+.css-elements {
+  background-color: aquamarine;
+  position: absolute;
+  top: 5px;
+  /* left: 5px; */
+  /* right: 5px; */
+  /* inset: 5px; */
+}
