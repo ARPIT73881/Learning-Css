@@ -1,0 +1,95 @@
+body{
+    /* margin: 0; */
+    font-family: sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.parent{
+    /* text-align: center; */
+    display: inline-flex;
+    /* display: flex; */
+    align-items: center;
+    /* align-content: center; */
+    /* align-items: baseline; */
+    /* align-items: flex-start; */
+    flex-wrap: wrap;
+    gap: 16px;
+    /* padding: 10px; */
+    /* margin: 0; */
+    /* display: flex; */
+    /* margin-inline: auto; */
+    border: 4px solid indianred;
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    /* width: 100%; */
+    height: 400px;
+    /* display: flex; */
+    /* height: 50vh; */
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    /* justify-content: center; */
+    /* flex-direction: column; */
+    /* width: 100%; */
+    
+    
+}
+
+.parent span{
+    /* border: 4px solid cadetblue; */
+    background-color: cadetblue;
+    /* width: 200px; */
+    /* height: 300px; */
+    /* flex-grow: 1; */
+    /* flex-shrink: 0; */
+    /* width: 100%; */
+    /* flex-basis: 400px; */
+    /* flex-basis: 100%; */
+    /* order: 2; */
+    /* flex-grow: 1; */
+    /* font-size: 32px; */
+}
+
+.parent p{
+    /* border: 4px solid darkkhaki; */
+    background-color: darkkhaki;
+    /* width: max-content; */
+    margin: 0;
+    /* margin-top: auto; */
+    /* margin-left: auto; */
+    /* margin: auto; */
+    /* width: 250px; */
+    /* width: 100%; */
+    /* flex-basis: 100%; */
+}
+
+.parent a{
+    /* border: 4px solid yellowgreen; */
+    background-color: yellowgreen;
+    /* width: 400px; */
+    /* height: 100px; */
+    /* flex-shrink: 0; */
+    /* width: 100%; */
+    /* flex-basis: 100%; */
+    /* margin-block: auto; */
+margin: 0;
+    /* order: -1; */
+    /* align-self: center; */
+
+    /* flex: 10px 2 3 ; */
+}
+
+/* direct child selector */
+/* .parent > *{
+width: 200px;
+flex-shrink: 0;
+} */
+
+/* sibling selector except the first one */
+/* .parent >   * + *{
+    margin-left: 16px;
+} */
