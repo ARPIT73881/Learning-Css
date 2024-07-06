@@ -1,0 +1,22 @@
+.container-one img {
+  width: 200px;
+  float: left;
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
+  opacity: 0.2;
+}
+
+.first {
+  background-color: burlywood;
+}
+
+.container-two img {
+  width: 200px;
+  float: right;
+  margin-right: 0.75rem;
+}
+
+.container-two {
+  display: flow-root;
+  background-color: blueviolet;
+}
