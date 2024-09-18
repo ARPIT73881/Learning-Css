@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-br8gqsHdrIv7F3-AWENtk8m" target="_blank"><img src="https://i.ibb.co/hDDF0pX/css.png" alt="Main-Cover" border="0"></a>
+   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-br8gqsHdrIv7F3-AWENtk8m" target="_blank"><img src="https://i.ibb.co/kqysLtR/css.png" alt="Main-Cover" border="0"></a>
   <br />
 
 # Learning Css
@@ -20,7 +20,7 @@ Learning Css with Procodrr .
 
 ## <a name="techstack">⚙️ Tech Stack</a>
 
-This website is built using the following technologies:
+This following technologies are used :
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,4 +34,4 @@ Please make sure to update tests as appropriate.
 
 ## 🫡 Credits
 
-This portfolio was inspired by the work of [Anurag Singh](https://github.com/https://github.com/anuragsinghbam). Their creativity and innovation motivated me to build my own version.
+This respository was inspired by the work of [Anurag Singh Procodrr](https://github.com/procodrr). Their creativity and innovation motivated me to build my own version.
