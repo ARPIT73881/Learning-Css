@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-br8gqsHdrIv7F3-AWENtk8m" target="_blank"><img src="https://i.ibb.co/kqysLtR/css.png" alt="Main-Cover" border="0"></a>
+   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-br8gqsHdrIv7F3-AWENtk8m" target="_blank"><img src="https://github.com/user-attachments/assets/c865a1bd-e4c1-488c-9839-2fed5349f862" alt="Main-Cover" border="0"></a>
   <br />
 
 # Learning Css
